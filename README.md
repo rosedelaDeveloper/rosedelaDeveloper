@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **이잉~**
-~~
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosedelaDeveloper&hide=Kotlin&show_icons=true&layout=compact)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rosedelaDeveloper&show_icons=true)

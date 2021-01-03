@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosedelDeveloper&hide=Kotlin&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosedelaDeveloper&hide=Kotlin&show_icons=true&layout=compact)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rosedelaDeveloper&show_icons=true)
 
 - 🔭 I’m currently working on ...

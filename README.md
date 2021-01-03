@@ -1,6 +1,6 @@
-# Hi there 👋
+# RoseDela Developer Github
 
-**이잉~**
+> 게임 기획 + 스크립팅 게임 개발자를 희망하는 고등학생입니다.
 
 <hr>
 
@@ -17,4 +17,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

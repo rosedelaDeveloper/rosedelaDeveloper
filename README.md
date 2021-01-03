@@ -1,6 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 **이잉~**
+
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosedelaDeveloper&hide=Kotlin&show_icons=true&layout=compact)

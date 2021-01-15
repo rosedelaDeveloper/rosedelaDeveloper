@@ -4,13 +4,13 @@
 
 게임 기획 + 스크립팅 게임 개발자를 희망하는 고등학생입니다.
 
-# 프로그래밍 파트
+### 프로그래밍 파트
 > - C, C++ ( Main ), C# ( Sub ), Java 활용 가능, Verse 공부 중
 > - Unity Engine 5 활용 가능
 > - Unreal Engine 4 공부 중
 > - Unreal Engine 5 추후 공부 예정
 
-# 게임 파트
+### 게임 파트
 > -Have Fun 플레이어블 코치 활동
 >- GroovyJam 메인 코치 활동
 

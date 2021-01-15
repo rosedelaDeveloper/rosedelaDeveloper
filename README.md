@@ -12,7 +12,8 @@
 | 활동 내역 | 기간 |
 | ------ | ------ |
 | 광주 소프트웨어 마이스터고등학교 4기 입학 | 2020 ~ 2023 |
-| Have Fun R6s Amateur Team Assistant Coach | 2019 ~  |
+| Have Fun R6s Amateur Team Assistant Coach | 2019 ~ 2021.01.13 |
+| GroovyJam Team Main Coach | 2021.01.14 ~  |
 
 # Address
 - Email : jackdraw111@kakao.com

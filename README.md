@@ -11,7 +11,7 @@
 > - Unreal Engine 5 추후 공부 예정
 
 ### 게임 파트
-> -Have Fun 플레이어블 코치 활동
+>- Have Fun 플레이어블 코치 활동
 >- GroovyJam 메인 코치 활동
 
 | 활동 내역 | 기간 |

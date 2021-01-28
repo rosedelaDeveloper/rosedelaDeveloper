@@ -8,6 +8,7 @@
 > - C, C++ ( Main ), C# ( Sub ), Java 활용 가능, Verse 공부 중
 > - Unity Engine 5 활용 가능
 > - Unreal Engine 4 공부 중
+> - Udemy " Unreal Engine C++ The Ultimate Game Developer Course " 
 > - Unreal Engine 5 추후 공부 예정
 
 ### 게임 파트
